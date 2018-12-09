@@ -1,0 +1,39 @@
+25px X 30px = 25 pixels wide by 30 pixels high
+
+**HEADER**
+
+Nav Button: 80px X 32px, Source Sans Pro, 12px font-size
+Logo: 75px X 75px
+Profile: 145px X 28px, Source Sans Pro, 14px font-size
+Search: 230px X 25px, Source Sans Pro, 14px font-size
+
+**HOME PAGE**
+
+Carousel: 960px X 240px, 3 images
+Artist Picture: 225px X 225px
+Artist Text: 225px X 205px, Source Sans Pro, Open Sans, 14px font-size, 18px font-size, 38px font-size
+Artist of the Month: 860px X 370px, Source Sans Pro, 38px font-size
+
+ **ABOUT PAGE**
+
+Page Title: 150px X 25px, Source Sans Pro, 32px font-size
+About Image: 900px X 320px
+About Text: 465px X 360px, Open Sans, 18px font-size
+
+**CONTACT PAGE**
+
+Page Tite: 150px X 25px, Source Sans Pro, 32px font-size
+First Name: 200px X 45px, Source Sans Pro, 14px font-size
+Last Name: 200px X 45px, Source Sans Pro, 14px font-size
+Email: 445px X 45px, Source Sans Pro, 14px font-size
+Phone: 445px X 45px, Source Sans Pro, 14px font-size
+Comment: 445px X 360px, Source Sans Pro, 14px font-size
+Send: 25px X 25px, Source Sans Pro, 14px font-size
+Visit Info: 205px X 250px, Source Sans Pro, 14px font-size
+Visit Map: 250px X 250px
+
+**FOOTER**
+
+Footer Nav: 55px X 195px, Source Sans Pro, 10px font-size
+Footer Logo: 55px X 55px
+Copyright Info: 55px X 195px, Source Sans Pro, 10px font-size

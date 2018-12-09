@@ -1,0 +1,29 @@
+<svg id="mind_over_melody" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405.35 321.14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ac361a;
+      }
+
+      .cls-2 {
+        font-size: 200.39px;
+        fill: #209f5f;
+        font-family: SourceSansPro-Regular, Source Sans Pro;
+      }
+
+      .cls-3 {
+        font-size: 111.33px;
+        fill: #b6a51c;
+        font-family: OpenSans, Open Sans;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.05em;
+      }
+    </style>
+  </defs>
+  <title>MOM_logo</title>
+  <rect id="dividing_line" class="cls-1" x="3.68" y="176.64" width="400" height="20"/>
+  <text class="cls-2" transform="translate(0 166.33) scale(0.9 1)">MIND</text>
+  <text class="cls-3" transform="translate(8.88 290.97) scale(0.9 1)"><tspan class="cls-4">MELOD</tspan><tspan x="360.24" y="0">Y</tspan></text>
+</svg>

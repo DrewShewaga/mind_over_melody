@@ -1,0 +1,17 @@
+<svg id="send" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330.37 288.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <title>send</title>
+  <g id="arrowsSN">
+    <path id="topArrowSN" class="cls-1" d="M140.65,242.25h262.1L88.25,109.75v87.5A53,53,0,0,1,140.65,242.25Z" transform="translate(-84.75 -105.98)"/>
+    <path id="bottomArrowSN" class="cls-1" d="M88.25,303.25c-.34,0-.67,0-1,0v87l314.5-132.5h-261A53,53,0,0,1,88.25,303.25Z" transform="translate(-84.75 -105.98)"/>
+  </g>
+</svg>
